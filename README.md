@@ -1,4 +1,4 @@
-#Jornada Milhas - Playwright
+##Jornada Milhas - Playwright
 
 Projeto desenvolvido durante meus estudos de automação de testes com Playwright, utilizando como base o projeto Jornada Milhas da Alura.
 
